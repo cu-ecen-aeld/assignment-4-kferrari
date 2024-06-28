@@ -1,4 +1,4 @@
-#! /usr/env/bin bash
+#! /bin/bash
 
 cd ./buildroot
 
